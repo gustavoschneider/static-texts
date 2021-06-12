@@ -4,6 +4,7 @@
   "description": "Generic Static Texts",
   "main": "index.md",
   "scripts": {
+    "deploy-ghpages": "./node_modules/.bin/gh-pages -d ./dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gustavoschneider/static-texts/issues"
   },
-  "homepage": "https://github.com/gustavoschneider/static-texts#readme"
+  "homepage": "https://github.com/gustavoschneider/static-texts/",
+  "devDependencies": {
+    "gh-pages": "^3.2.0"
+  }
 }
