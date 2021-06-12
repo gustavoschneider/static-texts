@@ -1,5 +1,5 @@
 {
-  "name": "Schneider static-texts",
+  "name": "static-texts",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
