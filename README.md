@@ -1,7 +1,6 @@
 # static-texts
 
-Apenas uma coletânea de textos, dicas e/ou tutoriais.
-
+Apenas uma coletânea de textos, dicas, tutoriais e 'otras cocitas más'...
 
 #### Quem sou?
 ```console
