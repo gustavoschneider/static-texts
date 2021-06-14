@@ -10,7 +10,7 @@ Talvez, para você, isso seja algo simples mas pesquisando para descobrir como e
 
 Então, aqui estou, explicando o passo-a-passo de como **EU** implementei essa funcionalidade.
 
-:warning: _**Disclaimer**: Eu não acredito que esta seja a melhor forma ou a forma correta de se implementar esta funcionalidade. Esta foi apenas a forma mais simples que encontrei de ter o **MEU** problema resolvido._
+:relaxed: _**Disclaimer**: Eu não acredito que esta seja a melhor forma ou a forma correta de se implementar esta funcionalidade. Esta foi apenas a forma mais simples que encontrei de ter o **MEU** problema resolvido._
 
 ### A Stack de Tecnologias.
 
